@@ -1,4 +1,4 @@
-# Kaggle House Prices Prediction - Top 9% Model
+# Kaggle House Prices Prediction - Beats 91% of Submissions
 
 Overview
 
